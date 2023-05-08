@@ -6,7 +6,7 @@ namespace MyApp
      static void Main("string[] args")
      {
       Console.WriteLine("Hello c# World");
-      Console.WriteLine("We are learning c sharp");
+      Console.WriteLine("We are learning c sharp and what about you ?");
       }
     }
  }   
